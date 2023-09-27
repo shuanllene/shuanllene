@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @shuanllene
-- 👀 I’m interested in traveling, yogaing, baking and playing GUZHENG
-- 🌱 I’m currently learning how to create a website and make a website more user-friendly
 - 💞️ I’m looking to collaborate on (will update later)
-- 📫 How to reach me xiao0000ni@gmail.com
+- 📫 How to reach me xiao0000ni@gmail.com/xiaolinn@andrew.cmu.edu
 
 <!---
 shuanllene/shuanllene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
